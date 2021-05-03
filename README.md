@@ -1,6 +1,6 @@
 # README
 
-Analysis for (Tumino, et al., 2021) 
+Analysis for (Tummino, et al., 2021) 
 
 ## To run:
 
