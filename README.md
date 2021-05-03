@@ -17,4 +17,6 @@ In R
     rmarkdown::render("analysis.Rmd", "html_document")
     
     
-This will take ~10 minutes to run and generate `analysis.html`.
+This will take ~10 minutes to run and generate [`analysis.html`](https://momeara.github.io/DIPL_SARS-CoV-2/analysis.html).
+
+

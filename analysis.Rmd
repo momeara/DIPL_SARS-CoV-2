@@ -621,7 +621,7 @@ ggplot2::ggplot(
   ggplot2::theme_bw() +
   ggplot2::theme(legend.position = "bottom") +
   ggplot2::theme(legend.key.height=unit(.9,"line")) +
-  ggplot2::guides(shape = ggplot2::guide_legend(ncol = 2)) +
+  ggplot2::guides(shape = ggplot2::guide_legend(ncol = 7)) +
   ggplot2::coord_cartesian(
     xlim = log(c(min(data$pld_mean), 1.5)),
     ylim = sqrt(c(0, c(max(data$infection_mean) + 8)))) +
