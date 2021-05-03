@@ -1,0 +1,16 @@
+.DS_Store
+analysis.nb.html
+analysis_cache
+analysis_files
+
+
+.RData
+.Rproj.user
+.Rhistory
+*.Rds
+*~
+\#*\#
+.DS_Store
+Icon?
+Rplots.pdf
+
